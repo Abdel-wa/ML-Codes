@@ -1,2 +1,2 @@
 # ML-Codes
-In this reprository you will find that i developped during my interships and my personal work also 
+In this reprository you will find works that i developped during my interships and my personal work also 
